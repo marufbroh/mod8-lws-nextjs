@@ -4,7 +4,7 @@ export default function DashboardLayout({
     quiz,
     notifications,
 }) {
-    const isLoggedIn = false;
+    const isLoggedIn = true;
 
     return (
         <>
